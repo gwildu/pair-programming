@@ -1,0 +1,37 @@
+[
+  {
+    "id": 636326908,
+    "url_templates": [
+      {
+        "index": 0,
+        "url": "https://ricardo-beta-eu-cld-res.cloudinary.com/image/upload/noimg_big.jpg"
+      }
+    ]
+  },
+  {
+    "id": 744883552,
+    "url_templates": [
+      {
+        "index": 0,
+        "url": "https://ricardo-beta-eu-cld-res.cloudinary.com/image/upload/${transformation}/v1/product/live/744883552_v0_1"
+      },
+      {
+        "index": 1,
+        "url": "https://ricardo-beta-eu-cld-res.cloudinary.com/image/upload/${transformation}/v1/product/live/744883552_v0_2"
+      },
+      {
+        "index": 2,
+        "url": "https://ricardo-beta-eu-cld-res.cloudinary.com/image/upload/${transformation}/v1/product/live/744883552_v0_3"
+      }
+    ]
+  },
+  {
+    "id": 800533060,
+    "url_templates": [
+      {
+        "index": 0,
+        "url": "https://ricardo-beta-eu-cld-res.cloudinary.com/image/upload/${transformation}/v1/product/live/800533060_v0_1"
+      }
+    ]
+  }
+]
