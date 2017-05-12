@@ -1,6 +1,11 @@
 # pair programming
 
-## setup the network
+## setup
+
+* github?
+* node.js?
+* other?
+* access the network
 
 ## server
 
