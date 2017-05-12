@@ -25,7 +25,7 @@
 
 ## api
 
-* get the url templates from the api (https://assets-domain-api-svc.ricardo-dev.ch/assets/744883552,800533060,636326908/imageshttps://assets-domain-api-svc.ricardo-dev.ch/assets/744883552,800533060,636326908/templates) 
+* get the url templates from the api (https://assets-domain-api-svc.ricardo-dev.ch/assets/744883552,800533060,636326908/templates) 
 and render the markup with the templates (and some transformations that you will get from me)
 
 
