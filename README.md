@@ -22,6 +22,7 @@
   * Questions:
     * what formats of the images will you need?
     * where would you store the images?
+    * what further improvements could you think of for those images or in general for image handling?
 
 ## api
 
